@@ -6,4 +6,4 @@ steam: https://steamcommunity.com/id/manaball123
 
 makes random stuff
 
-working on pasting pointer stuff now(very cool and swag)
+i love cpp now if u use any other language ur opinion is invalid
