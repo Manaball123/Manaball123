@@ -1,4 +1,4 @@
-discord: 0xmana
+discord: 4d616e61
 
 steam: https://steamcommunity.com/id/manaball123
 
